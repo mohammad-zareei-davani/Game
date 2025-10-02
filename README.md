@@ -1,3 +1,3 @@
 # Game
-These are some games I learned to build while learning Python.
+These are some games I build during learning Python.
 I hope you enjoy them! :)
